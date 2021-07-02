@@ -24,7 +24,7 @@ However given below are the steps to clone the website from scratch.
 
 6. ***Thats It!!!*** You can now go to the Zaio.html file and open it with any web-browser and you should be greeted with a cloned version of [zaio.io](https://zaio.io/).
 
-## ❓ How can I upload my html as pdf ❓
+## How can I upload my html as pdf ❓
 1. Open your cloned Webpage and press ***CTRL+U***. You will be taken to your Webpage's page source.
 
 2. Press ***CTRL+P*** and change the Destination to **"Save as PDF"**.
