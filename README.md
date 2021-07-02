@@ -1,4 +1,7 @@
 # Zaio Task-3
+This github page contains a working webpage. There are not modifications done to the [zaio.html](zaio.html) file. You can simply click on the green code button and download the file as ZIP. You will be needing only the [Zaio_files](/Zaio_files) folder and the [zaio.html](zaio.html) file for the webpage to work.
+
+However given below are the steps to clone the website from scratch.
 ## Steps for cloning the Webpage
 ⚠️ Turns out people at Zaio are constantly updating the website and thus these files may have different names.
 
@@ -25,3 +28,6 @@
 2. Press ***CTRL+P*** and change the Destination to **"Save as PDF"**.
 
 3. You can make adjustments to your preferences and save the file.
+
+## ❗ I have a Question/Suggestion ❗
+If you have any Questions or Suggestions please go to the issues tab in github and raise a new issue.
