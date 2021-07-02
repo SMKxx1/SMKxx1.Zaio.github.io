@@ -1,5 +1,5 @@
 # Zaio Task-3
-This github page contains a working webpage. There are not modifications done to the [zaio.html](zaio.html) file. navigate to [releases](https://github.com/SMKxx1/Zaio/releases) and click on Zaio@version-1.0.zip in order to download the files.
+This github page contains a working webpage. There are not modifications done to the [zaio.html](zaio.html) file. navigate to [releases](https://github.com/SMKxx1/Zaio/releases) and click on [Zaio@version-1.0.zip]() in order to download the files.
 
 [Click here for direct download](https://github.com/SMKxx1/Zaio/releases/download/working/Zaio@version-1.0.zip)
 
