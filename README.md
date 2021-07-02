@@ -30,4 +30,4 @@ However given below are the steps to clone the website from scratch.
 3. You can make adjustments to your preferences and save the file.
 
 ## ❗ I have a Question/Suggestion ❗
-If you have any Questions or Suggestions please go to the issues tab in github and raise a new issue.
+If you have any Questions or Suggestions please go to the issues tab on github and raise a new issue.
