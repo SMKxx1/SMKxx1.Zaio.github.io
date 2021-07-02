@@ -1,5 +1,7 @@
 # Zaio Task-3
-This github page contains a working webpage. There are not modifications done to the [zaio.html](zaio.html) file. You can simply click on the green code button and download the file as ZIP. You will be needing only the [Zaio_files](/Zaio_files) folder and the [zaio.html](zaio.html) file for the webpage to work.
+This github page contains a working webpage. There are not modifications done to the [zaio.html](zaio.html) file. navigate to [releases](https://github.com/SMKxx1/Zaio/releases) and click on Zaio@version-1.0.zip in order to download the files.
+
+[Click here for direct download](https://github.com/SMKxx1/Zaio/releases/download/working/Zaio@version-1.0.zip)
 
 However given below are the steps to clone the website from scratch.
 ## Steps for cloning the Webpage
